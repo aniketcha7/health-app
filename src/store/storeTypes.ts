@@ -11,7 +11,6 @@ export type stateType = {
 
 
 export type actionType = {
-    
     payload: {value: number},
     type: string
 }
